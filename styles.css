@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+details > summary {
+    list-style: none;
+}
+
+details > summary::-webkit-details-marker {
+    display: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.moreText {
+    color: rgb(48, 180, 210);
+}
