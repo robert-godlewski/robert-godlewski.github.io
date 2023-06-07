@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[969],{3969:function(e,o,t){e.exports=t.p+"static/media/sbd_up_to_chance.067e1f5a725122c99d9e.md"}}]);

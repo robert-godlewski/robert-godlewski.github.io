@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[477],{5477:function(e,o,c){e.exports=c.p+"static/media/cod_crusader.ef2bc9a501f780f22877.md"}}]);

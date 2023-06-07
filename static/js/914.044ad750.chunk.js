@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[914],{8914:function(e,o,t){e.exports=t.p+"static/media/beyond_jagged.3d09f24cabb333b1ba87.md"}}]);

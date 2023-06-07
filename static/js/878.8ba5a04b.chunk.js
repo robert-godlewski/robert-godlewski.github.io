@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[878],{878:function(o,s,t){o.exports=t.p+"static/media/madrigals.91223b079818718dc841.md"}}]);

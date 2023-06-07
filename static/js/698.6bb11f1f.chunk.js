@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[698],{9698:function(o,s,e){o.exports=e.p+"static/media/cover_folsom_prison_blues.fa9763d91d0b0bf4c3d1.md"}}]);
