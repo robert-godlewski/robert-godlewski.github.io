@@ -1,3 +1,16 @@
+# Description
+This is my portfolio of prior work I have done in the past. The list of work comprises of both Software Development and Audio Engineering Projects (Music).
+
+This was built with React.js and Bootstrap.
+
+# References
+* https://react.dev/
+* https://getbootstrap.com/
+* https://getbootstrap.com/docs/5.3/layout/grid/
+* https://dev.to/anobjectisa/how-to-dynamically-load-markdown-files-in-react-markdown-to-jsx-53fl
+* https://create-react-app.dev/docs/deployment/#building-for-relative-paths
+* Deploying to gitpages = https://www.youtube.com/watch?v=Q9n2mLqXFpU
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,23 +1,29 @@
-import logo from './logo.svg';
+// Stylesheets
 import './App.css';
+
+// JS Libraries
+import React from 'react';
+import {BrowserRouter, Routes, Route} from 'react-router-dom';
+
+
+// JS Components
+import HomeView from './components/HomeView';
+import CodingView from './components/CodingView';
+import AudioView from './components/AudioView';
+import About from './components/About';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<HomeView/>}/>
+          <Route path="/software_development" element={<CodingView/>}/>
+          <Route path="/audio_production" element={<AudioView/>}/>
+          <Route path="/about" element={<About/>}/>
+        </Routes>
+      </BrowserRouter>
     </div>
   );
 }
