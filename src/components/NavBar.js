@@ -3,10 +3,6 @@ import React from 'react';
 import {Link} from 'react-router-dom';
 
 
-// JS Components
-import RenderMarkup from './RenderMarkup';
-
-
 const NavBar = () => {
     return (
         <header className='container'>

@@ -9,6 +9,7 @@ This was built with React.js and Bootstrap.
 * https://getbootstrap.com/docs/5.3/layout/grid/
 * https://dev.to/anobjectisa/how-to-dynamically-load-markdown-files-in-react-markdown-to-jsx-53fl
 * https://create-react-app.dev/docs/deployment/#building-for-relative-paths
+* https://create-react-app.dev/docs/deployment/#github-pages
 * Deploying to gitpages = https://www.youtube.com/watch?v=Q9n2mLqXFpU
 
 # Getting Started with Create React App
