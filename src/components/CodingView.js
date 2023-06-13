@@ -19,16 +19,16 @@ const CodingView = () => {
             <div className='container'>
                 <h2>Software Development Experience</h2>
                 <div className='row'>
-                    <div className='border col col-lg-3 col-sm-12 mx-2 my-2'>
+                    <div className='border col col-xl-3 col-md-5 col-11 my-2 mx-xl-5 mx-md-4 mx-3'>
                         <RenderMarkup fileName={`${root_path}portfolio_specs.md`}/>
                     </div>
-                    <div className='border col col-lg-3 col-sm-12 mx-2 my-2'>
+                    <div className='border col col-xl-3 col-md-5 col-11 my-2 mx-xl-5 mx-md-4 mx-3'>
                         <RenderMarkup fileName={`${root_path}xethub.md`}/>
                     </div>
-                    <div className='border col col-lg-3 col-sm-12 mx-2 my-2'>
+                    <div className='border col col-xl-3 col-md-5 col-11 my-2 mx-xl-5 mx-md-4 mx-3'>
                         <RenderMarkup fileName={`${root_path}crm_web_app.md`}/>
                     </div>
-                    <div className='border col col-lg-3 col-sm-12 mx-2 my-2'>
+                    <div className='border col col-xl-3 col-md-5 col-11 my-2 mx-xl-5 mx-md-4 mx-3'>
                         <RenderMarkup fileName={`${root_path}reddit_clone.md`}/>
                     </div>
                 </div>

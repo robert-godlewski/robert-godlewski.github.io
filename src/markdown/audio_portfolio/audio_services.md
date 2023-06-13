@@ -1,9 +1,6 @@
 ## Audio Services
 List of services that I can do for your audio needs.  I have an Associates Degree in Digital Audio Engineering and have done a handful of projects.  Robert's audio production service is currently called Comet of Dreams and most projects will be uploaded with Comet of Dreams along with most of them.
 
-<img src="#" alt="Comet of Dreams Logo"/>
-
-
 #### Sound Mixing
 Applies EQ adjustments, leveling, panning, timebased effects (reverb, delay, flanging, phase correction, etc), and dynamics (compression, expanding, etc) to enhance the sound of edited recordings of each track for each song.  Also applies these effects on the overall song as well.
 

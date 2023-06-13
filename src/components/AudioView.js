@@ -6,6 +6,9 @@ import NavBar from './NavBar';
 import FooterBar from './FooterBar';
 import RenderMarkup from './RenderMarkup';
 
+// Content
+import logo from '../media/CometOfDreamsLogo.jpg';
+
 
 const AudioView = () => {
     const root_path = 'markdown/audio_portfolio/';
@@ -14,6 +17,7 @@ const AudioView = () => {
         <div>
             <NavBar/>
             <div className='container border col col-11 my-2'>
+                <img src={logo} alt="Comet of Dreams Logo" height="100px" className='my-2'></img>
                 <RenderMarkup fileName={`${root_path}audio_services.md`}/>
             </div>
             <div className='container'>
