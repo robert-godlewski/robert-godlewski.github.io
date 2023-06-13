@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.fb97ec25.js",
+    "main.js": "/static/js/main.e26b0118.js",
     "static/js/449.6698bc26.chunk.js": "/static/js/449.6698bc26.chunk.js",
     "static/js/100.3bdc1b23.chunk.js": "/static/js/100.3bdc1b23.chunk.js",
     "static/js/865.c64ca3a8.chunk.js": "/static/js/865.c64ca3a8.chunk.js",
-    "static/js/247.3109edb6.chunk.js": "/static/js/247.3109edb6.chunk.js",
+    "static/js/247.33df7ddc.chunk.js": "/static/js/247.33df7ddc.chunk.js",
     "static/js/914.044ad750.chunk.js": "/static/js/914.044ad750.chunk.js",
     "static/js/477.c49ed54e.chunk.js": "/static/js/477.c49ed54e.chunk.js",
     "static/js/575.3911dc0c.chunk.js": "/static/js/575.3911dc0c.chunk.js",
@@ -23,10 +23,12 @@
     "static/js/744.da5e4556.chunk.js": "/static/js/744.da5e4556.chunk.js",
     "static/js/89.e5e9fb79.chunk.js": "/static/js/89.e5e9fb79.chunk.js",
     "static/js/607.652377d4.chunk.js": "/static/js/607.652377d4.chunk.js",
+    "static/media/2022ProfilePicture_RobertGodlewskiCrop3.png": "/static/media/2022ProfilePicture_RobertGodlewskiCrop3.90001a298457872fcde7.png",
+    "static/media/CometOfDreamsLogo.jpg": "/static/media/CometOfDreamsLogo.9d06e43474819ec82210.jpg",
     "static/media/software_services.md": "/static/media/software_services.51b2362d6905eb0bc19a.md",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "static/media/about.md": "/static/media/about.a3a9795e769599503280.md",
-    "static/media/audio_services.md": "/static/media/audio_services.89cc268a81e779fedf12.md",
+    "static/media/audio_services.md": "/static/media/audio_services.81607a4ee116935fe9ef.md",
     "static/media/cod_voyage.md": "/static/media/cod_voyage.6c224fc7732dd62e0050.md",
     "static/media/cod_crusader.md": "/static/media/cod_crusader.ef2bc9a501f780f22877.md",
     "index.html": "/index.html",
@@ -40,7 +42,7 @@
     "static/media/portfolio_specs.md": "/static/media/portfolio_specs.c06aca61a6e6afa452ed.md",
     "static/media/summary.md": "/static/media/summary.7402e4f87f46292f6c30.md",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.fb97ec25.js.map": "/static/js/main.fb97ec25.js.map",
+    "main.e26b0118.js.map": "/static/js/main.e26b0118.js.map",
     "449.6698bc26.chunk.js.map": "/static/js/449.6698bc26.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map",
     "744.da5e4556.chunk.js.map": "/static/js/744.da5e4556.chunk.js.map",
@@ -49,6 +51,6 @@
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.fb97ec25.js"
+    "static/js/main.e26b0118.js"
   ]
 }
