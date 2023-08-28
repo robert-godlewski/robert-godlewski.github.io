@@ -5,10 +5,14 @@ Robert got into coding in late High School and early college at the UW when Mine
 
 During his time at SCC he learned how to effectively produce music by learning some basic music theory, how to record instruments live, and how to use analog and plugins to properly mix-down a song.  During this time he worked with a handful of projects applying knowledge and developing his craft for audio engineering.  By 2019, he received his AAAS Degree in Digital Audio Engineering.
 
-​Soon after graduating he applied both songwriting and mixing techniques he learned from school and found Comet of Dreams and released 2 EP; The Voyage in January 2020 and Crusader in May 2021.
+​Soon after graduating he applied both songwriting and mixing techniques he learned from school and found Comet of Dreams and released 2 EP; [The Voyage](https://open.spotify.com/album/51xTpzSSnS6jPDaBvdG1cX?si=Lk70rT85RfGr4VY0TK_MYQ) in January 2020 and [Crusader](https://open.spotify.com/album/0DqbksBoEQdHsO2ZrbGcWp?si=20WYqTQcTKqWrDgYJuwWgA) in May 2021.
 
 Soon after releasing Crusader, while developing the original Comet of Dreams website on WIX he decided to learn in depth about how to fully build a website and decided to take a Full Stack Web Development Certification through coding bootcamps and learned python, javascript, SQL, NoSQL, and countless tools to build web applications from 2021-2022.
 
 After he recieved his certification in web development he worked at XetHub developing UI regression tests.
 
-He also built this site using React, the most popular client side framework.
+He also built this portfolio site using React, the most popular client side framework.
+
+Currently building a new website for Comet of Dreams using Django.  The link to [Comet of Dreams on GitHub](https://github.com/comet-of-dreams).
+
+He is currently offering some freelance audio engineering services.  Contact him through [Comet of Dreams email](mailto:cometofdreamsband@gmail.com)
