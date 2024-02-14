@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[271],{9271:function(t,a,e){t.exports=e.p+"static/media/xethub.aa503b9ab7b50c83fadf.md"}}]);

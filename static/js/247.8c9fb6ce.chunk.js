@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[247],{2247:function(e,o,s){e.exports=s.p+"static/media/audio_services.d6cdfbdf68ea6e969088.md"}}]);

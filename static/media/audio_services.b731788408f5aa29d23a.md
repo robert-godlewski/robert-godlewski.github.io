@@ -1,3 +1,7 @@
+## Music
+I have an Associates Degree in Digital Audio Engineering and have done a handful of projects under the name of Comet of Dreams.
+
+<!-- For now keep this stuff out because I am not doing this actively
 ## Audio Services
 List of services that I can do for your audio needs.  I have an Associates Degree in Digital Audio Engineering and have done a handful of projects.  Robert's audio production service is currently called Comet of Dreams and most projects will be uploaded with Comet of Dreams along with most of them.  Now offering Podcast and Music production services.
 
@@ -28,3 +32,4 @@ I also can record Rhythm Guitar on your song if you need some rhythm guitar.  If
 Want to work with Comet of Dreams for your audio needs?
 
 Message me with all of the services you want [here](mailto:cometofdreamsband@gmail.com).
+-->
