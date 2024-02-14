@@ -16,7 +16,6 @@ const NavBar = () => {
             </div>
             <div>
                 <Link to={'/'} className='btn btn-primary mx-2'>Home</Link>
-                <Link to={'/software_development'} className='btn btn-primary mx-2'>Software Development</Link>
                 <Link to={'/audio_production'} className='btn btn-primary mx-2'>Audio Production</Link>
                 <Link to={'/about'} className='btn btn-primary mx-2'>About</Link>
             </div>

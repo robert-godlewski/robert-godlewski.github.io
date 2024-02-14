@@ -15,7 +15,7 @@ const About = () => {
             <div className='container col col-12'>
                 <RenderMarkup fileName='markdown/about.md'/>
                 <p>
-                    <Link to={'/software_development'} className='btn btn-secondary mx-2'>Software Development Portfolio.</Link>
+                    <Link to={'/'} className='btn btn-secondary mx-2'>Software Development Portfolio.</Link>
                     <Link to={'/audio_production'} className='btn btn-secondary mx-2'>Audio Production Portfolio.</Link>
                 </p>
             </div>
