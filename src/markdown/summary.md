@@ -1,2 +1,2 @@
 ## Summary about Robert
-Robert is a Full Stack Software Developer and a Music Producer.  For software Robert develops applications with Python Stack (Django and Flask) and MERN Stack.  Also generally produces rock music but open to doing audio work for podcasts.
+Robert is a Python Full Stack Software Developer.  Robert web develops applications with Django Stack but also knows how to do Flask (Python Framework) and MERN Stacks as well.  Also generally produces rock music on the side.

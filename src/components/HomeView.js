@@ -28,12 +28,6 @@ const HomeView = () => {
             <div className='container border col col-11 my-2'>
                 <RenderMarkup fileName={`${software_portfolio_path}software_services.md`}/>
             </div>
-            <div className='container border col col-11 my-2'>
-                <img src={logo} alt="Comet of Dreams Logo" height="100px" className='my-2'></img>
-                <RenderMarkup fileName={`${audio_portfolio_path}audio_services.md`}/>
-                <h3>Want More Information?</h3>
-                <p>If you want to preview past Audio Production projects, <Link to={'/audio_production'}>click here</Link>.</p>
-            </div>
             <div className='container justify-content-center'>
                 <h2>Software Development Experience</h2>
                 <div className='row'>
@@ -50,6 +44,12 @@ const HomeView = () => {
                         <RenderMarkup fileName={`${software_portfolio_path}reddit_clone.md`}/>
                     </div>
                 </div>
+            </div>
+            <div className='container border col col-11 my-2'>
+                <img src={logo} alt="Comet of Dreams Logo" height="100px" className='my-2'></img>
+                <RenderMarkup fileName={`${audio_portfolio_path}audio_services.md`}/>
+                <h3>Want More Information?</h3>
+                <p>If you want to preview past Audio Production projects, <Link to={'/audio_production'}>click here</Link>.</p>
             </div>
             <FooterBar/>
         </div>
