@@ -1,16 +1,18 @@
 ## Software Development
-Robert currently has a certification in Full Stack Web Development and have a year of experience building web applications.  Here's a link to [Robert's GitHub Profile](https://github.com/robert-godlewski) if you want to know what he's been up to.  Also scroll below to see the projects and experience I have done so far.
+Robert currently has a certification in Full Stack Web Development and have a year of experience building web applications.
 
-#### Django Stack
-[Django](https://www.djangoproject.com/) is a [Python](https://www.python.org/) web framework that has an ease for building up web APIs quickly along with basic website features like login information and authentication.
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5 logo" height="50">](https://html.spec.whatwg.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 logo" height="50">](https://www.w3.org/TR/CSS/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" height="50">](https://ecma-international.org/publications-and-standards/standards/ecma-262/) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" height="50">](https://www.python.org/) [<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django logo" height="50">](https://www.djangoproject.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js Logo" height="50">](https://react.dev/) [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" height="50">](https://getbootstrap.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" height="50">](https://git-scm.com/)
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" height="50">](https://www.python.org/) [<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django logo" height="50">](https://www.djangoproject.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5 logo" height="50">](https://html.spec.whatwg.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 logo" height="50">](https://www.w3.org/TR/CSS/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" height="50">](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
+#### Django
+[<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django logo" height="50">](https://www.djangoproject.com/)
 
-#### Flask Stack
-[Flask](https://flask.palletsprojects.com/en/2.2.x/) is a [Python](https://www.python.org/) web framework for basic web applications that only need a simplistic API that doesn't need a lot of special things built in.
+[Django](https://www.djangoproject.com/) is a [Python](https://www.python.org/) server side web framework.  It's a very popular framework due to fast production towards building up web APIs due to built in features like user login and authentication as well as an ORM to easily implement databases for any project.
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" height="50">](https://www.python.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask logo" height="50">](https://flask.palletsprojects.com/en/2.2.x/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5 logo" height="50">](https://html.spec.whatwg.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 logo" height="50">](https://www.w3.org/TR/CSS/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" height="50">](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask logo" height="50">](https://flask.palletsprojects.com/en/3.0.x/)
 
+An alternative to Django is [Flask](https://flask.palletsprojects.com/en/3.0.x/) which is another [Python](https://www.python.org/) server side web framework.  Unlike Django, Flask doesn't have built in features but great for small scale websites to do basic things.  Otherwise there will be lots of time needed to build out different features for a website.
+
+**######Edit Below########**
 #### MERN Stack
 MERN stands for [MongoDB](https://www.mongodb.com/) (which is a Document Based Database), [Express](https://expressjs.com/), [React](https://react.dev/), and [Node](https://nodejs.org/en) which is soley [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/) or even [TypeScript](https://www.typescriptlang.org/) web framework. This is great for building a simple website and keeps everything with JavaScript.
 
