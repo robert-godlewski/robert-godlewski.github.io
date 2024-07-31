@@ -1,11 +1,11 @@
 ## Earth Temperature Graph
 ***Role:*** Data Analyst
 
-***TechStack:*** [Python](https://www.python.org/), [Numpy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), and [Pandas](https://pandas.pydata.org/)
+***Tech Stack:*** [Python](https://www.python.org/), [Numpy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), and [Pandas](https://pandas.pydata.org/)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" height="50">](https://www.python.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" height="50">](https://numpy.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib Logo" height="50">](https://matplotlib.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas Logo" height="50">](https://pandas.pydata.org/)
 
-***Links:*** [GITHUB](https://github.com/robert-godlewski/earth_temp)
+***Link:*** [GITHUB](https://github.com/robert-godlewski/earth_temp)
 
 **Started Date:** June 2024
 

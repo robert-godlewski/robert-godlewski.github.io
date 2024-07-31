@@ -2,8 +2,6 @@
 
 # Temporarily ignore this
 /src/media
-gp_website.md
-job_search_bot.md
 
 # dependencies
 /node_modules
