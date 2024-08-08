@@ -7,11 +7,9 @@
 
 ***Link:*** [GITHUB](https://github.com/robert-godlewski/ghost_pants_website)
 
-**Started Date:** July 2024
+**Started Date:** June 2024
 
 ***Description:*** Blog Website talking about video games.
-* Serialized [Django](https://www.djangoproject.com/) for fast access between the API and the frontend framework.
-* Implemented [React.js](https://react.dev/) to gather data from different API calls for the UI.
-* Utilized JWT for user authentification for user privacy on the site.
-----Need to implement below----
-* Deployed both the backend and frontend of the site using Choreo.
+* Serialized [Django](https://www.djangoproject.com/) ORM as an API inorder for [React.js](https://react.dev/) to render 5 routes to be viewed for the UI.
+* Utilized JWT to authorize users for fast access to sensitive data.
+* Deployed full stack application using Choreo for people to engage with the live site.

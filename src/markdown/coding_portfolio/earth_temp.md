@@ -11,6 +11,6 @@
 
 ***Description:*** Graph representing the global warming on earth.
 * Utilized [Pandas](https://pandas.pydata.org/) to mine and format over 1000 points of raw data needed compile temperature information.
-* Designed the graph using [Matplotlib](https://matplotlib.org/) to plot over 1000 data points to present.
-* Applied [Numpy](https://numpy.org/) arrays to automatically determine the size of both x and y axis to be graphed.
-* Utilized [Numpy](https://numpy.org/) arrays to quickly calculate and predict how warm the earth got over 50 years.
+* Determine x and y axis by using [NumPy](https://numpy.org/) arrays to automatically give the range of values to be graphed.
+* Designed the graph using [Matplotlib](https://matplotlib.org/) to plot over 1000 data points to graph.
+* Utilized [NumPy](https://numpy.org/) arrays to quickly calculate and predict how warm the earth got over 50 years.
