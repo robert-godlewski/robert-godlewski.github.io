@@ -19,15 +19,6 @@ const HomeView = () => {
     return (
         <div>
             <NavBar/>
-            {/* Summary Section */}
-            <div className='col col-12 mx-2 my-2'>
-                {/* <RenderMarkup fileName={`${root_path}summary.md`}/> */}
-                <h2>Summary about Robert</h2>
-                <p>Robert is a Django-React Stack Software Developer with junior level of experience.</p>
-                <p>If you would like to see what Robert has been up to, please scroll down below this page so the the projects and experience done so far.  You can also visit <Link to={'https://github.com/robert-godlewski'}>Robert's GitHub Profile</Link> as well.
-                </p>
-                <p>If you want to know more about Robert Godlewski, <Link to={'/about'}>click here</Link>.</p>
-            </div>
             <div className='container border col col-11 my-2'>
                 <RenderMarkup fileName={`${software_portfolio_path}software_services.md`}/>
             </div>
