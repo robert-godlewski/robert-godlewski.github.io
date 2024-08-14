@@ -28,20 +28,7 @@ Generally using SQL Relational Databases ([PostgreSQL](https://www.postgresql.or
 
 Could use either [Amazon Web Service Tools](https://aws.amazon.com/) or [Choreo](https://choreo.dev/) for deploying projects. Could also use [GitHub Pages](https://pages.github.com/) instead for some super small scale projects that doesn't need a database.
 
-## Data Analysis
+#### Data Analysis
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" height="50">](https://numpy.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas Logo" height="50">](https://pandas.pydata.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib Logo" height="50">](https://matplotlib.org/)
 
 Robert has some experience using [Python](https://www.python.org/) modules [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), and [Matplotlib](https://matplotlib.org/) to help create graphs and tables to help with conveying information when needed.
-
-## Other Services
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask logo" height="50">](https://flask.palletsprojects.com/en/3.0.x/)
-
-An alternative to Django is [Flask](https://flask.palletsprojects.com/en/3.0.x/) which is another [Python](https://www.python.org/) server side web framework.  Unlike Django, Flask doesn't have built in features but great for small scale websites to do basic things and can later on build up features manually.  Otherwise there will be lots of time needed to build out different features for a website.
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" alt="Cypress Logo" height="50">](https://www.cypress.io/)
-
-[Cypress](https://www.cypress.io/) is a [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/) UI testing library.
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Logo" height="50">](https://www.mongodb.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js Logo" height="50">](https://expressjs.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js Logo" height="50">](https://react.dev/) [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" alt="Node.js Logo" height="50">](https://nodejs.org/en)
-
-MERN stands for [MongoDB](https://www.mongodb.com/), [Express](https://expressjs.com/), [React](https://react.dev/), and [Node](https://nodejs.org/en) which is soley [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/) or even [TypeScript](https://www.typescriptlang.org/) web framework. This is great for building a simple website and keeps everything with JavaScript and for small scale websites that need full stack development but there's no need for an overly involved database.  [Node](https://nodejs.org/en) is a [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/) library mainly used to run JS code in the terminal instead of a web browser which is helpful for server side development.  [Express](https://expressjs.com/) is another [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/) library that's used to build fast API calls to make things quickly.

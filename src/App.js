@@ -14,7 +14,7 @@ import About from './components/About';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App bg-dark text-light">
       <BrowserRouter>
         <Routes>
           {/* Will need to fix the HomeView so that it looks like a landing page instead */}
