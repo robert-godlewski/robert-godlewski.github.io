@@ -12,7 +12,7 @@ const About = () => {
     return (
         <div>
             <NavBar/>
-            <div className='container col col-12'>
+            <div className='container bg-success-subtle text-dark col col-12'>
                 <RenderMarkup fileName='markdown/about.md'/>
                 <p>
                     <Link to={'/'} className='btn btn-secondary mx-2'>Software Development Portfolio.</Link>
