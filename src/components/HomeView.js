@@ -25,6 +25,9 @@ const HomeView = () => {
             <div className='container justify-content-center'>
                 <h2>Software Development Experience</h2>
                 <div className='row'>
+                    <div className='border bg-success-subtle text-dark col col-12 my-2 mx-xl-5 mx-md-4 mx-3'>
+                        <RenderMarkup fileName={`${software_portfolio_path}earth_temp.md`}/>
+                    </div>
                     <div className='border bg-light text-dark col col-xl-5 col-11 my-2 mx-xl-5 mx-md-4 mx-3'>
                         <RenderMarkup fileName={`${software_portfolio_path}portfolio_specs.md`}/>
                     </div>
