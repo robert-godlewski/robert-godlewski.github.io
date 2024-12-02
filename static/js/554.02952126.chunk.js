@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[554],{3554:function(e,t,o){e.exports=o.p+"static/media/earth_temp.f633a48953f8e246b37e.md"}}]);

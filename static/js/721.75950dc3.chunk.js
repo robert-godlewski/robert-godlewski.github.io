@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[721],{1721:function(e,o,c){e.exports=c.p+"static/media/job_search_bot.cc776aa54c6d09ee471d.md"}}]);

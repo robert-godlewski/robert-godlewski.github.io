@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[512],{6512:function(e,t,c){e.exports=c.p+"static/media/gp_website.8bbbd5c9fd7c1c58d620.md"}}]);
